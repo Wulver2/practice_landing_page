@@ -45,7 +45,7 @@ ul {
 
 .button {
     background-color: #3882F6;
-    width: 100px;
+    width: 150px;
     padding: 10px;
     border-radius: 10px;
 }
@@ -115,4 +115,25 @@ h2 {
     align-self: flex-end;
     margin-right: 320px;
     margin-bottom: 80px;
+}
+
+.call {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color:#3882F6;
+    width: 70%;
+    height: 100px;
+    border-radius: 10px;
+    margin: 80px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.smaller {
+    font-size: 12px;
 }
