@@ -137,3 +137,11 @@ h2 {
 .smaller {
     font-size: 12px;
 }
+
+.footer {
+    background-color: #1F2937;
+}
+.footer p {
+    text-align: center;
+    margin: 20px 0px;
+}
