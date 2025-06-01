@@ -63,10 +63,18 @@ p, ul, button {
 
 .info {
     display: flex;
+    justify-content: center;
+    gap: 40px;
 }
 
 .box-text, h2 {
     color: #1F2937;
+    margin: 30px 0px;
+}
+
+.box-text {
+    text-align: center;
+    width: 150px;
 }
 
 h2 {
