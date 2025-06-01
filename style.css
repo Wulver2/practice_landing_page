@@ -90,3 +90,26 @@ h2 {
     border-style: solid;
     border-radius: 10px;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    align-items: center;
+}
+
+.quote-text, .speaker{
+    color: #1F2937;
+
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    width: 500px;
+}
+
+.speaker {
+    align-self: flex-end;
+}
