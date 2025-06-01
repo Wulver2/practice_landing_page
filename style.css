@@ -61,6 +61,10 @@ p, ul, button {
     color: #E5E7EB;
 }
 
+.info {
+    display: flex;
+}
+
 .box-text, h2 {
     color: #1F2937;
 }
