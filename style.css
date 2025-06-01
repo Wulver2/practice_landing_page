@@ -61,6 +61,20 @@ p, ul, button {
     color: #E5E7EB;
 }
 
-.info {
+.box-text, h2 {
     color: #1F2937;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900px;
+    text-align: center;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-radius: 10px;
 }
